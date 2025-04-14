@@ -2,8 +2,7 @@
 
 Skyline Vista is a modern, responsive multi-role real estate platform where users can list, book, and manage properties with a smooth and intuitive user experience. It is built using the MERN stack and integrates real-time data, role-based access, and payment functionality. Designed for agents and customers, it showcases dynamic dashboards and data visualization features.
 
-##  Live Demo:
-🌐 [View Live Website](https://skyline-vista.web.app/)
+## 🌐 [Skyline-Vista-Live](https://skyline-vista.web.app/)
 
 ---
 
@@ -41,7 +40,7 @@ The main motivation behind Skyline Vista was to create a real-world MERN stack-b
 ### 👨‍💻 Frontend
 - React.js
 - React Router DOM
-- Tailwind CSS + DaisyUI
+- Tailwind CSS + NextUI
 - TanStack React Query
 - Axios
 - Chart.js / Recharts
